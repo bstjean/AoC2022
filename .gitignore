@@ -1,0 +1,14 @@
+*.dll
+*.exe
+*.dat
+*.manifest
+*.ini
+*.changes
+*.sources
+*.image
+.filetree
+/github-cache
+/locale
+/ORIGINALS
+/package-cache
+/release-notes
