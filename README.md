@@ -13,4 +13,4 @@
  
 
  
- <img src="images/day01.jpg" alt="&quotHemispheres&quot, Rush" width="240" height="240">
+ <img src="images/day01.jpg" alt="1234" width="240" height="240">
