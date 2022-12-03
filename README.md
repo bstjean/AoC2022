@@ -11,4 +11,4 @@
  
  
  
- [[https://github.com/username/repository/blob/master/imgages/Meninas-Montréal%20Guitare%20Trio.jpg|alt=octocat]]
+ [[https://github.com/username/repository/blob/master/images/Meninas-Montréal%20Guitare%20Trio.jpg|alt=octocat]]
