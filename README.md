@@ -11,4 +11,6 @@
  
  
  
- [[https://github.com/bstjean/AoC2022/blob/master/images/day01.jpg|alt=octocat]]
+ [https://github.com/bstjean/AoC2022/blob/master/images/day01.jpg]
+ 
+ <img src="images/day01.jpg">
