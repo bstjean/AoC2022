@@ -11,6 +11,6 @@
  
  
  
- [https://github.com/bstjean/AoC2022/blob/master/images/day01.jpg]
+
  
- <img src="images/day01.jpg" width="240" height="240">
+ <img src="images/day01.jpg" alt="&quotHemispheres&quot, Rush" width="240" height="240">
