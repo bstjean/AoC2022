@@ -11,4 +11,4 @@
  
  
  
- [[https://github.com/bstjean/aoc2022/blob/master/images/Meninas-Montréal%20Guitare%20Trio.jpg|alt=octocat]]
+ [[https://github.com/bstjean/AoC2022/blob/master/images/day01.jpg|alt=octocat]]
