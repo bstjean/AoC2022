@@ -12,5 +12,8 @@
  
  
 
- 
+ <figure>
+ <figcaption>"Hemispheres", Rush</figcaption>
  <img src="images/day01.jpg" alt="1234" width="240" height="240">
+ </figure>
+
