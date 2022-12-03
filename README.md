@@ -13,7 +13,7 @@
  
 
  <figure>
-	<img src="images/day01.jpg" alt="1234" width="240" height="240">
-	<figcaption>"Hemispheres", Rush</figcaption>
+	<img src="images/Meninas-Montréal Guitare Trio.jpg" width="240" height="240">
+	<figcaption>"Meninas", Montréal Guitare Trio</figcaption>
  </figure>
 
